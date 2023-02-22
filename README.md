@@ -10,4 +10,4 @@ Apple Music player is a improved version of iTunes that really only brings a bet
 
 ## How does it work?
 
-The player simply displays the web player from https://music.apple.com/us/browse and displays it within its own app (Why can't Apple do something this simple? Who knows!)
+The player simply displays the [web player](https://music.apple.com/us/browse) and displays it within its own app (Why can't Apple do something this simple? Who knows!)
